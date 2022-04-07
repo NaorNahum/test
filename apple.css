@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+    text-decoration: underline dotted;
+}
+
+body{
+    color: darkred;
+    font-family: "Heebo", sans-serif;
+    background-color: antiquewhite;
+    display: block;
+    margin-right: 50px;
+    width: 85%;
+}
+
+h2{
+    text-decoration: underline;
+}
+
+a{
+    text-decoration: none;
+}
+
+#apple{
+    text-align: left;
+}
