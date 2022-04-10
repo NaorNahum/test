@@ -11,7 +11,6 @@ body{
 }
 
 h2{
-    
     border-bottom: 1px solid #a2a9b1;
 }
 
@@ -21,4 +20,8 @@ a{
 
 #apple{
     text-align: left;
+}
+
+.bold{
+    font-weight: bold;
 }
