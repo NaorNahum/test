@@ -39,6 +39,10 @@ a{
 }
 
 .gallery{
-    row-gap: 10px;
-    column-gap: 20px;
+    text-align: center;
+}
+
+.image{
+    outline: 2px solid black;
+    margin: 50px;
 }
