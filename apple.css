@@ -11,7 +11,7 @@ body{
 }
 
 h2{
-    border-bottom: 1px solid #a2a9b1;
+    border-bottom: 1px solid grey;
 }
 
 a{
@@ -20,6 +20,18 @@ a{
 
 #apple{
     text-align: left;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+}
+
+.border{
+    outline: solid black;
+}
+
+.border-space{
+    padding: 30px;
+    outline: solid black;
 }
 
 .bold{
