@@ -26,7 +26,7 @@ a{
 }
 
 .border{
-    outline: solid black;
+    outline: solid black;   
 }
 
 .border-space{
@@ -38,6 +38,7 @@ a{
     font-weight: bold;
 }
 
-ol{
-    padding-left:0;
+.gallery{
+    row-gap: 10px;
+    column-gap: 20px;
 }
