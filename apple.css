@@ -19,10 +19,10 @@ a{
 }
 
 #apple{
-    text-align: left;
     display: flex;
     flex-direction: row-reverse;
     justify-content: space-between;
+    padding-left:0;
 }
 
 .border{
@@ -36,4 +36,8 @@ a{
 
 .bold{
     font-weight: bold;
+}
+
+ol{
+    padding-left:0;
 }
