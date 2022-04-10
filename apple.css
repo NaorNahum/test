@@ -1,19 +1,18 @@
 h1{
-    text-align: center;
-    text-decoration: underline dotted;
+    text-align: right;
+    border-bottom: 1px solid #a2a9b1;
 }
 
 body{
-    color: darkred;
-    font-family: "Heebo", sans-serif;
-    background-color: antiquewhite;
+    font-family: sans-serif;
     display: block;
     margin-right: 50px;
     width: 85%;
 }
 
 h2{
-    text-decoration: underline;
+    
+    border-bottom: 1px solid #a2a9b1;
 }
 
 a{
